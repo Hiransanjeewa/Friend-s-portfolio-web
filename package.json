@@ -1,7 +1,7 @@
 {
   "name": "my-portfolio-web",
   "version": "1.0.0",
-  "homepage": "https://Hiransanjeewa.github.io/my-portfolio-app",
+  "homepage": "https://Hiransanjeewa.github.io/my-portfolio-app/",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
