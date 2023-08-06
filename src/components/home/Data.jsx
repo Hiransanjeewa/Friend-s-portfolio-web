@@ -54,7 +54,7 @@ const Data = () => {
                   ></path>
         </svg>       
         </h1>
-        <h3 className="home__subtitle"></h3>
+        <h3 className="home__subtitle"> </h3>
     </div>
   )
 }
