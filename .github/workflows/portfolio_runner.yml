@@ -26,8 +26,8 @@ jobs:
 
       - name: Deploy to GitHub Pages
         run: |
-          git config --global user.email "github-actions@github.com"
-          git config --global user.name "GitHub Actions"
+          git config --global user.email "hiransanjeewaa@gmail.com"
+          git config --global user.name "Hiransanjeewa"
           npm run deploy
         env:
           CI: false
