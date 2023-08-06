@@ -8,6 +8,7 @@ const App = () => {
     <>
       <Header/>
       <main className='main'>
+        asdas
         <Home/>
       </main>
     </>
