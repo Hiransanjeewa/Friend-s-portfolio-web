@@ -13,10 +13,8 @@
           uses: actions/checkout@v2
         
         - name: Build
-          run:  | 
-              export CI=false
-              npm install
-              npm run build
+          run :  npm install
+        
     
         - name: Deploy
           run:  |
